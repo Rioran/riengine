@@ -16,3 +16,7 @@ https://rioran.github.io/riengine/main
     - mechanic to increment attributes
     - mechanic to set attributes
     - mechanic of limits
+- allow players to make inputs like strings and numbers
+
+## DONE:
+- basic movement through nodes of story

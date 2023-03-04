@@ -4,9 +4,13 @@
 }
 
 body {
-    height: 100vh;
+    width: 100vw;
     background-color: rgb(1, 98, 75);
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.info, .choice {
+    background-color: rgb(111, 188, 170);
 }
