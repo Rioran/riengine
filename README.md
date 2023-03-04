@@ -17,6 +17,7 @@ https://rioran.github.io/riengine/main
     - mechanic to set attributes
     - mechanic of limits
 - allow players to make inputs like strings and numbers
+- play sounds on episode opening
 
 ## DONE:
 - basic movement through nodes of story
